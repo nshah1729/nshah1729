@@ -9,7 +9,7 @@
 - 📫 How to reach me **nishantshah1729@gmail.com**
 <br>
 <br>
-- ⚡ Fun fact **-Don't Sarcasm me!**
+- ⚡ Fun fact **Don't Sarcasm me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
