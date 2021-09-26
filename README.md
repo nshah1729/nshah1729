@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishant Shah</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Nishant Shah</h1>
 <h3 align="center">I am a full-stack developer and an Open source enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nshah1729&label=Profile%20views&color=0e75b6&style=flat" alt="nshah1729" /> </p>
