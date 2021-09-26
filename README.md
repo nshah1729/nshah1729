@@ -22,7 +22,7 @@
 <br>
  
 
-
+<br><br>
 
 <p>&nbsp;<img align="left" style:"margin-left=100px;" src="https://github-readme-stats.vercel.app/api?username=nshah1729&show_icons=true&locale=en" alt="nshah1729" /></p><br><br><br>
 
