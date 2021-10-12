@@ -24,10 +24,6 @@
 
 <br><br>
 
-<p>&nbsp;<img align="left" style:"margin-left=100px;" src="https://github-readme-stats.vercel.app/api?username=nshah1729&show_icons=true&locale=en" alt="nshah1729" /></p><br><br><br>
-
-<p><img align="left" style:"margin-left=100px;" src="https://github-readme-streak-stats.herokuapp.com/?user=nshah1729&" alt="nshah1729" /></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="right">
 
 <a href="https://twitter.com/nishant51711825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant51711825" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishant-shah1729" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-shah1729" height="30" width="40" /></a>
