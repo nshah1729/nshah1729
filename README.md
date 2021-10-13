@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/nishant1729" target="blank"><img src="https://img.shields.io/twitter/follow/nishant51711825?logo=twitter&style=for-the-badge" alt="nishant51711825" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nshah1729" target="blank"><img src="https://img.shields.io/twitter/follow/nishant51711825?logo=twitter&style=for-the-badge" alt="nishant51711825" /></a> </p>
 - 📫 How to reach me **nishantshah1729@gmail.com**
 <br>
 <br>
