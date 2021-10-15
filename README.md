@@ -20,7 +20,8 @@
   
 </p>
 <br>
- 
+ ![nshah1729's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nshah1729&hide=["stars"]&show_icons=true)
+![nshah1729's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nshah1729&title_color=2f81ed&bg_color=ffffff&text_color=2f81ed)
 
 <br><br>
 
