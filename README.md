@@ -9,7 +9,7 @@
 - 📫 How to reach me **nishantshah1729@gmail.com**
 <br>
 <br>
-- ⚡ Fun fact **Don't Sarcasm me!**
+- ⚡ Fun fact **I'm a Web Dev and I fear 🕷️ **
 
 
 <br>
