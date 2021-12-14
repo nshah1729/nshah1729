@@ -9,7 +9,7 @@
 - 📫 How to reach me **nishantshah1729@gmail.com**
 <br>
 <br>
-- ⚡ Fun fact **I'm a Web Dev and I fear 🕷️ **
+- ⚡ Fun fact **Please god, leetcode blinds my eyes and darkens my heart**
 
 
 <br>
