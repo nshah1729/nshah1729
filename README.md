@@ -1,6 +1,4 @@
-<p align="center"><img src="https://github.com/rodion-arr/rodion-arr/blob/master/logo.svg" width="200px" height="45px"/></p>
-<h3 align="center">I'm Nishant Shah. I'm a self-taught full-stack developer and an Open source enthusiast</h3>
-
+![Nishant Shah](https://user-images.githubusercontent.com/58332678/173031800-6460f85d-9999-4f5f-9d5d-38326e6a66b8.svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nshah1729&label=Profile%20views&color=0e75b6&style=flat" alt="nshah1729" /> </p>
 
 
