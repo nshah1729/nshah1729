@@ -1,7 +1,7 @@
-![Nishant Shah](https://user-images.githubusercontent.com/58332678/173031800-6460f85d-9999-4f5f-9d5d-38326e6a66b8.svg)
+![Nishant Shah (LinkedIn Banner)](https://user-images.githubusercontent.com/58332678/173494282-1a54c457-abc7-4cc3-b468-57d0cb4cb9ac.svg)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nshah1729&label=Profile%20views&color=0e75b6&style=flat" alt="nshah1729" /> </p>
-
-
 
 <p align="left"> <a href="https://twitter.com/nshah1729" target="blank"><img src="https://img.shields.io/twitter/follow/nshah1729?logo=twitter&style=for-the-badge" alt="nshah1729" /></a> </p>
 - 📫 How to reach me **nishantshah1729@gmail.com**
